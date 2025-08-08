@@ -64,6 +64,7 @@ body {
 
 .section p, .section ul {
     line-height: 1.6;
+    text-align: left; /* Alinea el texto a la izquierda para evitar espacios extra */
 }
 
 .section img {
@@ -87,3 +88,4 @@ footer a {
     text-decoration: none;
     font-weight: bold;
 }
+
